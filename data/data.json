@@ -6670,6 +6670,11 @@
     "maxChannelServerVersion": "v2.5.99",
     "minChannelServerVersion": "v2.5.0-rc1",
     "version": "v1.18.9+rke2"
+   },
+   {
+    "maxChannelServerVersion": "v2.5.99",
+    "minChannelServerVersion": "v2.5.0-rc1",
+    "version": "v1.18.9-rc2+rke2r1"
    }
   ]
  }
